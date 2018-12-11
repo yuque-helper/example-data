@@ -1,5 +1,0 @@
-{
-  "title": "如何插入代码？",
-  "slug": 575597,
-  "body_html": "<p data-type=\"p\">如果要插入代码，点击菜单栏的“插入代码块”按钮。</p><div data-type=\"p\"></div><div data-type=\"p\"><div data-type=\"image\" data-display=\"block\" data-align=\"left\" data-src=\"https://lark-assets-prod.oss-cn-hangzhou.aliyuncs.com/2017/png/0c09532d-2244-47b1-8763-2e0e04c212c7.png\" data-width=\"285\"><img src=\"https://lark-assets-prod.oss-cn-hangzhou.aliyuncs.com/2017/png/0c09532d-2244-47b1-8763-2e0e04c212c7.png\" width=\"285\"/></div></div><div data-type=\"p\">然后，点击代码块右侧按钮，选择你要填入的语言，这会正确渲染代码的高亮颜色。</div><div data-type=\"p\"></div><div data-type=\"p\">如 Node.js 的 Hello World 代码：</div><div data-type=\"p\"></div><pre data-syntax=\"javascript\"><code class=\"language-javascript\">const http = require(&#x27;http&#x27;);\n\nconst server = http.createServer((req, res) =&gt; {\n  res.end();\n});\nserver.on(&#x27;clientError&#x27;, (err, socket) =&gt; {\n  socket.end(&#x27;HTTP/1.1 400 Bad Request\\r\\n\\r\\n&#x27;);\n});\nserver.listen(8000);\n</code></pre><div data-type=\"p\"></div><div data-type=\"p\">还可以通过 <code>`</code>  符合来圈定 inline 模式的代码，如变量 <code>http</code> 。</div>"
-}
