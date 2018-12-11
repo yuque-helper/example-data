@@ -1,0 +1,5 @@
+{
+  "title": "如何保存文档？",
+  "slug": 575594,
+  "body_html": "<div data-type=\"p\">\n文档没有发布之前，所有的修改都属于草稿状态。</div><div data-type=\"p\"></div><div data-type=\"p\">为了将你的修改保存到服务，手动触发保存，有两种方法。</div><div data-type=\"p\"></div><ul data-type=\"unordered-list\"><li data-type=\"list-item\" data-list-type=\"unordered-list\"><div data-type=\"p\">点击菜单栏的“保存”按钮</div></li><li data-type=\"list-item\" data-list-type=\"unordered-list\"><div data-type=\"p\">按下 Command + S （macOS）或 Control + S （Windows）</div></li></ul><div data-type=\"p\"></div><div data-type=\"p\">注意：语雀有自动保存功能，即使不手动触发，每一分钟还是会保存一次你所做的修改。另外，当你退出编辑时（比如关闭当前浏览器 Tab），语雀也会替你自动保存。</div>"
+}
